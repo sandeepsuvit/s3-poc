@@ -3,7 +3,11 @@ package com.needle.storage.service.impl;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.nio.file.DirectoryNotEmptyException;
+import java.nio.file.Files;
+import java.nio.file.NoSuchFileException;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -72,7 +76,15 @@ public class UploadServiceImpl implements UploadService {
 				throw new StorageException("Failed to store empty file " + filename);
 			}
 
-			return uploadFileTos3bucket(fileUrl, convertMultiPartToFile(file));
+			// Get the file to upload and store in temp location
+			File fileToUpload = convertMultiPartToFile(file);
+
+			PutObjectResult result = uploadFileTos3bucket(fileUrl, fileToUpload);
+
+			// Remove file from temp location
+			cleanUp(fileToUpload);
+
+			return result;
 		} catch (AmazonServiceException ase) {
 			log.info("Caught an AmazonServiceException from PUT requests, rejected reasons:");
 			log.info("Error Message:    " + ase.getMessage());
@@ -85,6 +97,19 @@ public class UploadServiceImpl implements UploadService {
 			log.info("Error Message: " + ace.getMessage());
 		}
 		return null;
+	}
+
+	/**
+	 * Remove file reference from the temp directory
+	 * 
+	 * @param path
+	 * @throws IOException
+	 */
+	private void cleanUp(File file) throws IOException {
+		// Remove file from temp location
+		if (file.exists()) {
+			Files.delete(Paths.get(file.getPath()));
+		}
 	}
 
 	/**
@@ -124,7 +149,7 @@ public class UploadServiceImpl implements UploadService {
 	private PutObjectResult uploadFileTos3bucket(String fileName, File file) {
 		return s3client.putObject(new PutObjectRequest(bucketName, fileName, file));
 	}
-	
+
 	/**
 	 * Delete file from s3
 	 * 
@@ -132,9 +157,9 @@ public class UploadServiceImpl implements UploadService {
 	 * @return
 	 */
 	private String deleteFileFromS3Bucket(String fileUrl) {
-	    String fileName = fileUrl.substring(fileUrl.lastIndexOf("/") + 1);
-	    s3client.deleteObject(new DeleteObjectRequest(bucketName + "/", fileName));
-	    return "Successfully deleted";
+		String fileName = fileUrl.substring(fileUrl.lastIndexOf("/") + 1);
+		s3client.deleteObject(new DeleteObjectRequest(bucketName + "/", fileName));
+		return "Successfully deleted";
 	}
 
 }
