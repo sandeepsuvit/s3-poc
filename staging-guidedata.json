@@ -1,0 +1,2866 @@
+[
+  {
+    "version": 1,
+    "guideId": "GU102911",
+    "refId": "fc536e24-411c-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Sunita",
+      "middleName": null,
+      "lastName": "Chawla",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-29",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-16"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-11"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR",
+        "US"
+      ],
+      "validTill": "2022-12-27"
+    },
+    "tciScore": 10,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.6
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.8
+      },
+      {
+        "name": "VOYAGER",
+        "value": 9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 9.2
+      },
+      {
+        "name": "US",
+        "value": 7.2
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ARCH",
+        "value": 8.9
+      },
+      {
+        "name": "LITR",
+        "value": 8.2
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 6.4,
+        "writingProf": 6.2,
+        "readingProf": 6.4
+      },
+      {
+        "language": "RU",
+        "readProf": 6.6,
+        "writingProf": 7.5,
+        "readingProf": 7.3
+      },
+      {
+        "language": "EN",
+        "readProf": 7.4,
+        "writingProf": 7.8,
+        "readingProf": 8.7
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Mumbai",
+      "Cochin"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102912",
+    "refId": "ad24c992-411c-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Freni",
+      "middleName": null,
+      "lastName": "Avari",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-19",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-23"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-27"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-28"
+    },
+    "tciScore": 6.5,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.9
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 7.5
+      },
+      {
+        "name": "FR",
+        "value": 7.5
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 8.2
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 7.3,
+        "writingProf": 6.5,
+        "readingProf": 7
+      },
+      {
+        "language": "EN",
+        "readProf": 7.5,
+        "writingProf": 7.5,
+        "readingProf": 7
+      },
+      {
+        "language": "NL",
+        "readProf": 7,
+        "writingProf": 6.3,
+        "readingProf": 8.1
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102913",
+    "refId": "ff6975fc-4119-11eb-b3ae-4c32759e05db",
+    "nameContact": {
+      "firstName": "Ashok",
+      "middleName": null,
+      "lastName": "Varma",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-24",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-15"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-11"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "DE",
+        "UK"
+      ],
+      "validTill": "2022-12-10"
+    },
+    "tciScore": 6.8,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.7
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "DE",
+        "value": 9.6
+      },
+      {
+        "name": "UK",
+        "value": 8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.3
+      },
+      {
+        "name": "LITR",
+        "value": 9.3
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 7.2,
+        "writingProf": 7.8,
+        "readingProf": 6.7
+      },
+      {
+        "language": "EN",
+        "readProf": 7.7,
+        "writingProf": 8.8,
+        "readingProf": 7.4
+      },
+      {
+        "language": "NL",
+        "readProf": 7.1,
+        "writingProf": 8.5,
+        "readingProf": 7.8
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai",
+      "Cochin",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-12",
+        "endDate": "2021-02-12",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102914",
+    "refId": "57b161e8-411f-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Able",
+      "middleName": null,
+      "lastName": "Thomas",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-23",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-27"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-12"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "DE",
+        "US"
+      ],
+      "validTill": "2022-12-26"
+    },
+    "tciScore": 9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.6
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "DE",
+        "value": 7.2
+      },
+      {
+        "name": "US",
+        "value": 9.6
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 8.8
+      },
+      {
+        "name": "ART",
+        "value": 8.1
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 7.8,
+        "writingProf": 6.3,
+        "readingProf": 8.4
+      },
+      {
+        "language": "EN",
+        "readProf": 8.8,
+        "writingProf": 7.9,
+        "readingProf": 7
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai",
+      "Cochin",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-12",
+        "endDate": "2021-02-12",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102915",
+    "refId": "ad25acf4-411c-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Asha",
+      "middleName": null,
+      "lastName": "Inamdar",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-10",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-16"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-28"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-17"
+    },
+    "tciScore": 8,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.6
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.1
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 8.4
+      },
+      {
+        "name": "FR",
+        "value": 8.4
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 9.9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.2,
+        "writingProf": 7.9,
+        "readingProf": 8.9
+      },
+      {
+        "language": "FR",
+        "readProf": 8.9,
+        "writingProf": 6.2,
+        "readingProf": 8.2
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Mumbai",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-21",
+        "endDate": "2021-01-22",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102916",
+    "refId": "57b13ec0-411f-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Balaram",
+      "middleName": null,
+      "lastName": "J",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-12",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-11"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-25"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR"
+      ],
+      "validTill": "2022-12-16"
+    },
+    "tciScore": 5.6,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.7
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.9
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.8
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 7.9
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.9
+      },
+      {
+        "name": "LITR",
+        "value": 9.6
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.3,
+        "writingProf": 8.4,
+        "readingProf": 7.1
+      },
+      {
+        "language": "FR",
+        "readProf": 7.5,
+        "writingProf": 6.2,
+        "readingProf": 8
+      },
+      {
+        "language": "NL",
+        "readProf": 8.3,
+        "writingProf": 8.7,
+        "readingProf": 8.3
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "FIT",
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-21",
+        "endDate": "2021-01-22",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      },
+      {
+        "startDate": "2021-02-21",
+        "endDate": "2021-02-22",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-03",
+        "endDate": "2021-11-03",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102917",
+    "refId": "57b182b8-411f-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Sylvia",
+      "middleName": null,
+      "lastName": "Henry",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-14",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-20"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-26"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR",
+        "US"
+      ],
+      "validTill": "2022-12-27"
+    },
+    "tciScore": 8.1,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.1
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.9
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.6
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 8.9
+      },
+      {
+        "name": "US",
+        "value": 10
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 8.3
+      },
+      {
+        "name": "ARCH",
+        "value": 9.1
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.7,
+        "writingProf": 8.9,
+        "readingProf": 8.4
+      },
+      {
+        "language": "FR",
+        "readProf": 6.6,
+        "writingProf": 8.1,
+        "readingProf": 7.2
+      },
+      {
+        "language": "NL",
+        "readProf": 8.3,
+        "writingProf": 7.7,
+        "readingProf": 6.1
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Bengaluru"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-21",
+        "endDate": "2021-01-22",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102918",
+    "refId": "86290888-4119-11eb-b3ae-4c32759e05db",
+    "nameContact": {
+      "firstName": "Ashim",
+      "middleName": null,
+      "lastName": "Ahuja",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-10",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-14"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-24"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "DE",
+        "UK"
+      ],
+      "validTill": "2022-12-12"
+    },
+    "tciScore": 6.2,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.3
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.8
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "DE",
+        "value": 9.1
+      },
+      {
+        "name": "UK",
+        "value": 7.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 9.2
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 8.2,
+        "writingProf": 8.6,
+        "readingProf": 8.8
+      },
+      {
+        "language": "EN",
+        "readProf": 7,
+        "writingProf": 7.7,
+        "readingProf": 8.8
+      },
+      {
+        "language": "FR",
+        "readProf": 7.3,
+        "writingProf": 8.1,
+        "readingProf": 7.2
+      }
+    ],
+    "serviceLocationInterests": [
+      "Bengaluru",
+      "Delhi",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-21",
+        "endDate": "2021-01-22",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU102919",
+    "refId": "57b0ab90-411f-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Usha",
+      "middleName": null,
+      "lastName": "A J",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-15",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-14"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-20"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "DE",
+        "FR"
+      ],
+      "validTill": "2022-12-26"
+    },
+    "tciScore": 7.3,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.7
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.1
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "DE",
+        "value": 9
+      },
+      {
+        "name": "FR",
+        "value": 8.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 8.1
+      },
+      {
+        "name": "LITR",
+        "value": 9.2
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 7.3,
+        "writingProf": 7.3,
+        "readingProf": 8.1
+      },
+      {
+        "language": "FR",
+        "readProf": 8.9,
+        "writingProf": 8,
+        "readingProf": 6
+      },
+      {
+        "language": "NL",
+        "readProf": 7,
+        "writingProf": 8.1,
+        "readingProf": 6.3
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai",
+      "Cochin",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-01",
+        "endDate": "2021-01-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029110",
+    "refId": "f0d1df4c-49f3-4cb7-862e-b23c43aae598",
+    "nameContact": {
+      "firstName": "Ajay",
+      "middleName": null,
+      "lastName": "Paliwal",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-14",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-25"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-23"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "US"
+      ],
+      "validTill": "2022-12-12"
+    },
+    "tciScore": 7.8,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.8
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 8.1
+      },
+      {
+        "name": "US",
+        "value": 7.3
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.5
+      },
+      {
+        "name": "ARCH",
+        "value": 8.7
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 7.1,
+        "writingProf": 7.9,
+        "readingProf": 8.3
+      },
+      {
+        "language": "NL",
+        "readProf": 8.7,
+        "writingProf": 8.1,
+        "readingProf": 6.6
+      }
+    ],
+    "serviceLocationInterests": [
+      "Bengaluru",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-01",
+        "endDate": "2021-01-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029111",
+    "refId": "ad258274-411c-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Tanaz",
+      "middleName": null,
+      "lastName": "Bathena",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-22",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-17"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-17"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "FR"
+      ],
+      "validTill": "2022-12-15"
+    },
+    "tciScore": 8.8,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.7
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.8
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 8.9
+      },
+      {
+        "name": "FR",
+        "value": 9.3
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.5
+      },
+      {
+        "name": "ARCH",
+        "value": 8.8
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 7.9,
+        "writingProf": 6.4,
+        "readingProf": 8.2
+      },
+      {
+        "language": "EN",
+        "readProf": 8.4,
+        "writingProf": 7.9,
+        "readingProf": 8.6
+      },
+      {
+        "language": "FR",
+        "readProf": 8.3,
+        "writingProf": 9,
+        "readingProf": 6.1
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai",
+      "Delhi",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "FIT",
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-01",
+        "endDate": "2021-02-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029112",
+    "refId": "164bbfec-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Prakash",
+      "middleName": null,
+      "lastName": "Bhattacharya",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-20",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-26"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-29"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-26"
+    },
+    "tciScore": 6.9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 10
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.4
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 7
+      },
+      {
+        "name": "FR",
+        "value": 9.9
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 9.4
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 7,
+        "writingProf": 7.1,
+        "readingProf": 8.7
+      },
+      {
+        "language": "FR",
+        "readProf": 6.7,
+        "writingProf": 6.4,
+        "readingProf": 7.5
+      },
+      {
+        "language": "NL",
+        "readProf": 8.7,
+        "writingProf": 6,
+        "readingProf": 7.4
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT",
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-01-01",
+        "endDate": "2021-01-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029113",
+    "refId": "164c34d6-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Sanjay",
+      "middleName": null,
+      "lastName": "Agarwal",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-21",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-18"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-17"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "FR"
+      ],
+      "validTill": "2022-12-19"
+    },
+    "tciScore": 6.2,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.3
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.8
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.8
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 8.1
+      },
+      {
+        "name": "FR",
+        "value": 7.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.1
+      },
+      {
+        "name": "LITR",
+        "value": 8
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 8.3,
+        "writingProf": 7.3,
+        "readingProf": 8.8
+      },
+      {
+        "language": "EN",
+        "readProf": 7.7,
+        "writingProf": 8.9,
+        "readingProf": 9
+      },
+      {
+        "language": "NL",
+        "readProf": 8.9,
+        "writingProf": 8.1,
+        "readingProf": 7.2
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Delhi",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-03-01",
+        "endDate": "2021-03-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029114",
+    "refId": "164c55b0-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Shakti",
+      "middleName": null,
+      "lastName": "Singh",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-25",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-27"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-21"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR",
+        "US"
+      ],
+      "validTill": "2022-12-17"
+    },
+    "tciScore": 7.2,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.7
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.5
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 7.5
+      },
+      {
+        "name": "US",
+        "value": 10
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 10
+      },
+      {
+        "name": "HIST",
+        "value": 9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 8.2,
+        "writingProf": 9,
+        "readingProf": 7.5
+      },
+      {
+        "language": "EN",
+        "readProf": 8.1,
+        "writingProf": 8.6,
+        "readingProf": 8.3
+      },
+      {
+        "language": "FR",
+        "readProf": 9,
+        "writingProf": 7,
+        "readingProf": 7.4
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-01",
+        "endDate": "2021-04-01",
+        "startTime": "09:00:00",
+        "endTime": "13:00:00"
+      },
+      {
+        "startDate": "2021-06-02",
+        "endDate": "2021-11-02",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029115",
+    "refId": "164c55b0-411e-11ab-b165-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Priyanka",
+      "middleName": null,
+      "lastName": "Chawla",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-29",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-29"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-18"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-25"
+    },
+    "tciScore": 5.3,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.7
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 9.8
+      },
+      {
+        "name": "FR",
+        "value": 7.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 8.9
+      },
+      {
+        "name": "LITR",
+        "value": 9.9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 6.7,
+        "writingProf": 7.4,
+        "readingProf": 9
+      },
+      {
+        "language": "EN",
+        "readProf": 7.5,
+        "writingProf": 8.4,
+        "readingProf": 7.4
+      },
+      {
+        "language": "NL",
+        "readProf": 8.3,
+        "writingProf": 7.4,
+        "readingProf": 6.8
+      }
+    ],
+    "serviceLocationInterests": [
+      "Jaipur",
+      "Delhi",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029116",
+    "refId": "86290888-4119-11bb-b3ae-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Anthony",
+      "middleName": null,
+      "lastName": "Joseph",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-12",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-10"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-19"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-27"
+    },
+    "tciScore": 7.6,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.9
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.3
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.3
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 8.8
+      },
+      {
+        "name": "FR",
+        "value": 9.6
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 9
+      },
+      {
+        "name": "ART",
+        "value": 8
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.6,
+        "writingProf": 7.9,
+        "readingProf": 8.2
+      },
+      {
+        "language": "FR",
+        "readProf": 8.6,
+        "writingProf": 8.5,
+        "readingProf": 9
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029117",
+    "refId": "164c55b0-411e-11eb-b165-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Bruce",
+      "middleName": null,
+      "lastName": "Singh",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-29",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-22"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-10"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR",
+        "US"
+      ],
+      "validTill": "2022-12-26"
+    },
+    "tciScore": 5.4,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.2
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.2
+      },
+      {
+        "name": "VOYAGER",
+        "value": 9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 9.9
+      },
+      {
+        "name": "US",
+        "value": 7.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 8.6
+      },
+      {
+        "name": "LITR",
+        "value": 9.9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.5,
+        "writingProf": 7.6,
+        "readingProf": 8.5
+      },
+      {
+        "language": "FR",
+        "readProf": 7.5,
+        "writingProf": 7.4,
+        "readingProf": 7.8
+      },
+      {
+        "language": "NL",
+        "readProf": 6.9,
+        "writingProf": 6.7,
+        "readingProf": 8.7
+      }
+    ],
+    "serviceLocationInterests": [
+      "Bengaluru",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "FIT",
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029118",
+    "refId": "86290888-4119-11eb-b3ae-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Tony",
+      "middleName": null,
+      "lastName": "Ahuja",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-27",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-30"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-20"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "EN"
+      ],
+      "validTill": "2022-12-11"
+    },
+    "tciScore": 5.3,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.5
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 9.4
+      },
+      {
+        "name": "EN",
+        "value": 9.2
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 8.9
+      },
+      {
+        "name": "ARCH",
+        "value": 8.7
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 8.4,
+        "writingProf": 6.1,
+        "readingProf": 8.8
+      },
+      {
+        "language": "RU",
+        "readProf": 8.9,
+        "writingProf": 8.4,
+        "readingProf": 6.7
+      },
+      {
+        "language": "EN",
+        "readProf": 7,
+        "writingProf": 7.2,
+        "readingProf": 9
+      }
+    ],
+    "serviceLocationInterests": [
+      "Bengaluru",
+      "Delhi",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029119",
+    "refId": "264bbfec-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Amritsar",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-15",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-21"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-26"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "EN"
+      ],
+      "validTill": "2022-12-22"
+    },
+    "tciScore": 9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.6
+      },
+      {
+        "name": "COXKINGS",
+        "value": 8
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.1
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 9.9
+      },
+      {
+        "name": "EN",
+        "value": 7.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 9.8
+      },
+      {
+        "name": "ARCH",
+        "value": 9.6
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 9,
+        "writingProf": 9,
+        "readingProf": 7.5
+      },
+      {
+        "language": "EN",
+        "readProf": 8.7,
+        "writingProf": 7.3,
+        "readingProf": 8.1
+      },
+      {
+        "language": "NL",
+        "readProf": 6.3,
+        "writingProf": 6,
+        "readingProf": 8.7
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029120",
+    "refId": "364c34d6-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Bengaluru",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-18",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-10"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-27"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "DE",
+        "EN"
+      ],
+      "validTill": "2022-12-13"
+    },
+    "tciScore": 6.9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.4
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "DE",
+        "value": 8.1
+      },
+      {
+        "name": "EN",
+        "value": 9.6
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 9.7
+      },
+      {
+        "name": "LITR",
+        "value": 9.7
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 8.3,
+        "writingProf": 7.5,
+        "readingProf": 8.1
+      },
+      {
+        "language": "EN",
+        "readProf": 8.2,
+        "writingProf": 8.1,
+        "readingProf": 8.9
+      },
+      {
+        "language": "NL",
+        "readProf": 8.2,
+        "writingProf": 8.7,
+        "readingProf": 8.5
+      }
+    ],
+    "serviceLocationInterests": [
+      "Mumbai"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029121",
+    "refId": "464c55b0-411e-11eb-b165-4c32759e05db",
+    "nameContact": {
+      "firstName": "Mysore",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-27",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-16"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-29"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "FR",
+        "US"
+      ],
+      "validTill": "2022-12-22"
+    },
+    "tciScore": 9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.5
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.1
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "FR",
+        "value": 8.1
+      },
+      {
+        "name": "US",
+        "value": 7.3
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 9.9
+      },
+      {
+        "name": "ARCH",
+        "value": 8.5
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 7.4,
+        "writingProf": 6.5,
+        "readingProf": 7.8
+      },
+      {
+        "language": "EN",
+        "readProf": 8.6,
+        "writingProf": 9,
+        "readingProf": 7.2
+      },
+      {
+        "language": "FR",
+        "readProf": 8.5,
+        "writingProf": 8,
+        "readingProf": 6.7
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "LOCAL/FULL"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029122",
+    "refId": "56290888-4119-11eb-b3ae-4c32759e05db",
+    "nameContact": {
+      "firstName": "Coimbatore",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-27",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-23"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-11"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-16"
+    },
+    "tciScore": 8.1,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.1
+      },
+      {
+        "name": "COXKINGS",
+        "value": 7.2
+      },
+      {
+        "name": "VOYAGER",
+        "value": 9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 7.6
+      },
+      {
+        "name": "FR",
+        "value": 8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 9.5
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 7.8,
+        "writingProf": 6.4,
+        "readingProf": 7
+      },
+      {
+        "language": "RU",
+        "readProf": 6,
+        "writingProf": 6.5,
+        "readingProf": 6.2
+      },
+      {
+        "language": "EN",
+        "readProf": 7.8,
+        "writingProf": 8.6,
+        "readingProf": 7.3
+      }
+    ],
+    "serviceLocationInterests": [
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029123",
+    "refId": "664c55b0-411e-11eb-b165-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Maraikulam",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-23",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-20"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-16"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "FR"
+      ],
+      "validTill": "2022-12-25"
+    },
+    "tciScore": 5.4,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 9.6
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.5
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8.6
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 7.7
+      },
+      {
+        "name": "FR",
+        "value": 9.7
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "LITR",
+        "value": 8.8
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 6.8,
+        "writingProf": 6.9,
+        "readingProf": 6.4
+      },
+      {
+        "language": "EN",
+        "readProf": 7.1,
+        "writingProf": 7,
+        "readingProf": 8.5
+      },
+      {
+        "language": "NL",
+        "readProf": 8.4,
+        "writingProf": 8.4,
+        "readingProf": 7.4
+      }
+    ],
+    "serviceLocationInterests": [
+      "Bengaluru",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029124",
+    "refId": "76290888-4119-11eb-b3ae-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Udaipur",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-25",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-25"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-14"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "UK",
+        "FR"
+      ],
+      "validTill": "2022-12-17"
+    },
+    "tciScore": 8.9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 8.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.3
+      },
+      {
+        "name": "VOYAGER",
+        "value": 8
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "UK",
+        "value": 9.3
+      },
+      {
+        "name": "FR",
+        "value": 9.8
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ART",
+        "value": 10
+      },
+      {
+        "name": "ARCH",
+        "value": 8.3
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "EN",
+        "readProf": 8.7,
+        "writingProf": 8,
+        "readingProf": 8.7
+      },
+      {
+        "language": "FR",
+        "readProf": 6.3,
+        "writingProf": 8.9,
+        "readingProf": 8.8
+      },
+      {
+        "language": "NL",
+        "readProf": 8.2,
+        "writingProf": 7,
+        "readingProf": 7.2
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029125",
+    "refId": "864c55b0-411e-11ab-b165-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Ranakpur",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-14",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-25"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-25"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "US"
+      ],
+      "validTill": "2022-12-20"
+    },
+    "tciScore": 9.9,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.4
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.1
+      },
+      {
+        "name": "VOYAGER",
+        "value": 7.4
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 7.2
+      },
+      {
+        "name": "US",
+        "value": 10
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "ARCH",
+        "value": 9.9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "DE",
+        "readProf": 8.7,
+        "writingProf": 7.8,
+        "readingProf": 7.7
+      },
+      {
+        "language": "EN",
+        "readProf": 8.4,
+        "writingProf": 7.2,
+        "readingProf": 7.4
+      },
+      {
+        "language": "NL",
+        "readProf": 6.5,
+        "writingProf": 6.7,
+        "readingProf": 6.4
+      }
+    ],
+    "serviceLocationInterests": [
+      "Cochin",
+      "Agra"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF",
+      "LOCAL/FULL",
+      "ACCOMPANYING"
+    ],
+    "assignmentTypeInterests": [
+      "FIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "guideId": "GU1029126",
+    "refId": "96290888-4119-11bb-b3ae-4c32759e05dc",
+    "nameContact": {
+      "firstName": "Khajuraho",
+      "middleName": null,
+      "lastName": "Guide",
+      "email": null,
+      "telephone": null
+    },
+    "gdprValidity": null,
+    "kycValidity": "2022-12-29",
+    "license": {
+      "level": "MONUMENT",
+      "validities": [
+        {
+          "name": "MO10234",
+          "value": "2022-12-26"
+        },
+        {
+          "name": "MO10235",
+          "value": "2022-12-12"
+        }
+      ]
+    },
+    "empanelment": {
+      "level": "SOURCE_MARKET",
+      "empaneledFor": [
+        "EN",
+        "FR"
+      ],
+      "validTill": "2022-12-25"
+    },
+    "tciScore": 9.4,
+    "customerScores": [
+      {
+        "name": "AUDLEY",
+        "value": 7.9
+      },
+      {
+        "name": "COXKINGS",
+        "value": 6.2
+      },
+      {
+        "name": "VOYAGER",
+        "value": 9
+      }
+    ],
+    "sourceMktScores": [
+      {
+        "name": "EN",
+        "value": 8.4
+      },
+      {
+        "name": "FR",
+        "value": 7.1
+      }
+    ],
+    "themeScores": [
+      {
+        "name": "HIST",
+        "value": 9.7
+      },
+      {
+        "name": "ARCH",
+        "value": 9
+      }
+    ],
+    "languageScores": [
+      {
+        "language": "RU",
+        "readProf": 9,
+        "writingProf": 6,
+        "readingProf": 6.9
+      },
+      {
+        "language": "EN",
+        "readProf": 8.4,
+        "writingProf": 8,
+        "readingProf": 8.3
+      },
+      {
+        "language": "NL",
+        "readProf": 7.8,
+        "writingProf": 8.5,
+        "readingProf": 6.6
+      }
+    ],
+    "serviceLocationInterests": [
+      "Delhi"
+    ],
+    "serviceTypeInterests": [
+      "LOCAL/HALF"
+    ],
+    "assignmentTypeInterests": [
+      "GIT"
+    ],
+    "guideSchedule": [
+      {
+        "startDate": "2021-04-12",
+        "endDate": "2021-11-12",
+        "startTime": "09:00:00",
+        "endTime": "17:00:00"
+      }
+    ]
+  }
+]

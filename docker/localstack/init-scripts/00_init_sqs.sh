@@ -1,0 +1,1 @@
+awslocal sqs create-queue --queue-name guideservice-itinerary-queue --attributes DelaySeconds=1,VisibilityTimeout=600
